@@ -1,3 +1,4 @@
 # These are supported funding model platforms
 
-github: MCE123
+github: mce123
+custom: ["https://www.paypal.com/pmcelhiney", mce123.com]
